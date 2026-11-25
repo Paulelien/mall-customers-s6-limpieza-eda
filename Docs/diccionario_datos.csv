@@ -1,0 +1,8 @@
+variable,tipo,valores_posibles,descripcion_y_observaciones
+CustomerID,Identificador,Entero 1-200,Identificador correlativo del cliente. Se excluye del análisis (privacidad).
+Gender,Categórica nominal,"F, M",Género del cliente.
+Age,Numérica discreta,18-70 años,Edad en años.
+Education,Categórica ordinal (orden asumido),"Uneducated, High School, College, Graduate, Post-Graduate, Doctorate, Unknown",Nivel educacional. Contiene 26 Unknown (13 %).
+Marital Status,Categórica nominal,"Married, Single, Divorced, Unknown","Estado civil. Contiene 15 Unknown (7,5 %)."
+Annual Income (k$),Numérica,15-137 miles de USD,Ingreso anual. Posible outlier en el máximo (137).
+Spending Score (1-100),Numérica,1-99,Puntaje de gasto asignado por el centro comercial.

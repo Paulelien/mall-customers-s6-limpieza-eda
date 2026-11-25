@@ -1,0 +1,8 @@
+regla,cumple
+Edad entre 18 y 100,Sí
+Ingreso mayor a 0,Sí
+Spending Score entre 1 y 100,Sí
+Sin nulos,Sí
+Sin duplicados,Sí
+Gender solo F/M,Sí
+Sin columna identificadora,Sí
